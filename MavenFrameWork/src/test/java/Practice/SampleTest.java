@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 public class SampleTest
 {
+	//Pushed
 	@Test(groups="RegressionTest")
 	public void m1()
 	{
